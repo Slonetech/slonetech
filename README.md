@@ -59,3 +59,4 @@ I am a highly motivated individual deeply passionate about computer science and 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slonetech&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slonetech&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=slonetech&theme=github_dark)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314bb6vqkq3umb3sr2q64z4llkje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)

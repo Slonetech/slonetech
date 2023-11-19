@@ -33,6 +33,8 @@ I am a highly motivated individual deeply passionate about computer science and 
 ## Languages & markups
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css)](https://skillicons.dev)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/)
 
 ## Frameworks (Frontend)
 

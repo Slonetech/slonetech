@@ -48,40 +48,35 @@ I am a highly motivated individual deeply passionate about computer science and 
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://helpx.adobe.com/illustrator/user-guide.html)
 [![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://helpx.adobe.com/photoshop/user-guide.html)
 
-
 ## Frameworks (CSS)
-
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,styledcomponents,materialui)](https://skillicons.dev)
 
 ## Backend & Databases
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
 
-### Web Hosting
+## Web Hosting
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://docs.netlify.com/)
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)](https://docs.github.com/en/pages)
 
-### Package Manager
+## Package Manager
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/)
 
-### Code Styling
+## Code Styling
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
 [![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/docs/en/index.html)
 
-#### Version Control
+### Version Control
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/en)
 
 ## Tools
-
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,ps,idea)](https://skillicons.dev)
 
 ## Other 
-
 [![My Skills](https://skillicons.dev/icons?i=firebase,git,github,netlify,heroku,vite,vercel,redux)](https://skillicons.dev)
 
 # `My Stats`

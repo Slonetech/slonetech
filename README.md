@@ -37,8 +37,17 @@ I am a highly motivated individual deeply passionate about computer science and 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/)
 
 ## Frameworks (Frontend)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/getting-started.html)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+[![Tailwind Css](https://img.shields.io/badge/tailwindcss-%230ea5e99a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff)](https://tailwindcss.com/docs/installation)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,angular)](https://skillicons.dev)
+### Design/Visual Tools
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/developers)
+[![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://helpx.adobe.com/illustrator/user-guide.html)
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://helpx.adobe.com/photoshop/user-guide.html)
+
 
 ## Frameworks (CSS)
 
@@ -47,6 +56,25 @@ I am a highly motivated individual deeply passionate about computer science and 
 ## Backend & Databases
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
+
+### Web Hosting
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://docs.netlify.com/)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)](https://docs.github.com/en/pages)
+
+### Package Manager
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://classic.yarnpkg.com/lang/en/docs/)
+
+### Code Styling
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/docs/en/index.html)
+
+#### Version Control
+[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/en)
 
 ## Tools
 

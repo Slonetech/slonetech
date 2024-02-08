@@ -26,8 +26,6 @@ I am a highly motivated individual deeply passionate about computer science and 
   <a href="https://www.instagram.com/slone1444/">
     <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" alt="Instagram Badge"/>
   </a>
-  
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 

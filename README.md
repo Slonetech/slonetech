@@ -18,15 +18,8 @@ I am a highly motivated individual deeply passionate about computer science and 
 
 # `Connect with me` 
 
-<div id="badges">
-
-  <a href="https://www.linkedin.com/in/gordon-kengere-b36935228">
-    <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/slone1444/">
-    <img width="45" height="45" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/instagram-circle.png" alt="Instagram Badge"/>
-  </a>
-</div>
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ddd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fidel-ouma-699850291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dddd) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ddd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://9?t=iEONLQeykSMLYJ3GWY-_sg&s=08) 
 
 
 
